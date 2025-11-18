@@ -1,7 +1,3 @@
-Here is the English translation:
-
----
-
 ### **Project Objective**
 
 The goal of this project is to explore and analyze the statistical data from the Valorant Champions 2022 tournament in Istanbul, using libraries such as Pandas, NumPy, Seaborn, Matplotlib, and Plotly to create visualizations that help understand player and team performance, highlighting the historic victory of the Brazilian team LOUD.
